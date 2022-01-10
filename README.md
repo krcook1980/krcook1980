@@ -1,5 +1,5 @@
 ### Kelly Cook - Full Stack Developer
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=krcook1980&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=krcook1980&langs_count=5&theme=tokyonight)]()
 
 <!--
